@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "bdad0a7a1eab7e56bba86dea990ae025"
+build_time: [1568153454, 760161000]
+inputs:
+  "/Users/lasicin/IdeaProjects/iosteste/TabTeste/TabTeste/SecondViewController.swift": [9223372036, 854775807]
+  "/Users/lasicin/IdeaProjects/iosteste/TabTeste/TabTeste/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/lasicin/IdeaProjects/iosteste/TabTeste/TabTeste/FirstViewController.swift": [9223372036, 854775807]
